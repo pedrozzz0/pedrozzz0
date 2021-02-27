@@ -3,5 +3,6 @@
 
 <p align="Left"><img width="130" src="https://komarev.com/ghpvc/?username=pedrozzz0&style=dark" alt="pedrozzz0"></p>
 
-### 🎵 Playing now on my spotify: 
-[<img src="https://spotify-readme-pi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="275" />](https://open.spotify.com/user/gnna1yzh4dwaccff0el9sdv2u)
+<br>
+<h2 align="center"> My social media </h2>
+<a href="https://t.me/pedrozzz0"><img align="left" width="30px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a>
