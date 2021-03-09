@@ -14,7 +14,6 @@
 
 <br>
 <h2 align="center"> My social media </h2>
-<a href="https://t.me/pedrozzz0"><img align="left" width="40px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a>
 <a href="mailto: guitopzika26@gmail.com"><img align="left" width="40px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
 </br>
 
