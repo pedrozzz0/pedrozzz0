@@ -1,6 +1,6 @@
 <h2 align="left"> Hello, i'm pedro. 🐒 </h2>
 <p align="left"> • I like android development and programming, i can say that these are my hobbies. </p>
-<p align="left"> • I still learning shell and want to learn C and kotlin in the far future. </p>
+<p align="left"> • I'm learning C and want to learn kotlin in the future. </p>
 <p align="left"> • I also like creating stuff and helping people. </p>
 
 <h2 align="left"> Stats 📊 </h2>
