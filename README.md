@@ -11,6 +11,9 @@
 
 <h2 align="center"> Active Repo ⚙️ </h2>
 <p align="center"><a href="https://github.com/pedrozzz0/King-Tweaks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pedrozzz0&repo=King-Tweaks&show_owner=false&theme=dark"></a></p>
+<p align="center"><a href="https://github.com/pedrozzz0/bourbon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pedrozzz0&repo=bourbon&show_owner=false&theme=dark"></a></p>
+<p align="center"><a href="https://github.com/pedrozzz0/fscc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pedrozzz0&repo=fscc&show_owner=false&theme=dark"></a></p>
+<p align="center"><a href="https://github.com/pedrozzz0/god"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pedrozzz0&repo=god&show_owner=false&theme=dark"></a></p>
 
 <br>
 <h2 align="center"> My social media </h2>
